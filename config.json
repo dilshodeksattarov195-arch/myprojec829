@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyprocess",
+        "uuid": 7626800,
+        "checksum": "ttpp4"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
